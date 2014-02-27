@@ -1,33 +1,3 @@
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\Ucheevr.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\Ucheevr.pdb
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\Antlr3.Runtime.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\AspNet.ScriptManager.jQuery.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.AspNet.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.Core.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.OAuth.Consumer.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.OAuth.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.OpenId.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\EntityFramework.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\Microsoft.AspNet.Membership.OpenAuth.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\Microsoft.ScriptManager.MSAjax.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\Microsoft.ScriptManager.WebForms.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\Microsoft.Web.Infrastructure.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\System.Web.Optimization.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\System.Web.Providers.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\WebGrease.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\EntityFramework.xml
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.Core.xml
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.OAuth.xml
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.OAuth.Consumer.xml
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.OpenId.xml
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\bin\DotNetOpenAuth.AspNet.xml
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\obj\Debug\Ucheevr.csprojResolveAssemblyReference.cache
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\obj\Debug\Ucheevr.dll
-c:\users\student\documents\visual studio 2012\Projects\Ucheevr\Ucheevr\obj\Debug\Ucheevr.pdb
 C:\Users\Student\Desktop\Ucheevr\Ucheevr\bin\Ucheevr.dll
 C:\Users\Student\Desktop\Ucheevr\Ucheevr\bin\Ucheevr.pdb
 C:\Users\Student\Desktop\Ucheevr\Ucheevr\bin\Antlr3.Runtime.dll
@@ -58,3 +28,33 @@ C:\Users\Student\Desktop\Ucheevr\Ucheevr\bin\DotNetOpenAuth.AspNet.xml
 C:\Users\Student\Desktop\Ucheevr\Ucheevr\obj\Debug\Ucheevr.csprojResolveAssemblyReference.cache
 C:\Users\Student\Desktop\Ucheevr\Ucheevr\obj\Debug\Ucheevr.dll
 C:\Users\Student\Desktop\Ucheevr\Ucheevr\obj\Debug\Ucheevr.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\Ucheevr.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\Ucheevr.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\Antlr3.Runtime.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.Core.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\EntityFramework.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\System.Web.Optimization.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\System.Web.Providers.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\WebGrease.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\EntityFramework.xml
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.Core.xml
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\obj\Debug\Ucheevr.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\obj\Debug\Ucheevr.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\ucheevr\Ucheevr\obj\Debug\Ucheevr.pdb

@@ -14,15 +14,16 @@
     </section>
 </asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <h3>Get Started:</h3>
+    <h3>Get Started:<asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
+    </h3>
     <ol class="round">
         <li class="one">
-            <h5>Register on our site</h5>
-            If you have not already done so, please
-            <a href="/Account/Register.aspx">register</a> or <a href="/Account/Login.aspx">login</a> to get started.
+                <h5>Register on our site</h5>
+                If you have not already done so, please
+                <a href="/Account/Register.aspx">register</a> or <a href="/Account/Login.aspx">login</a> to get started.
         </li>
         <li class="two">
-            <h5>Choose your campaigns</h5>
+            <h5>Choose your paths</h5>
             x.
             <a href="http://go.microsoft.com/fwlink/?LinkId=245147">Learn more…</a>
         </li>
